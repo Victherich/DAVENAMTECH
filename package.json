@@ -11,9 +11,13 @@
   "dependencies": {
     "next": "16.2.9",
     "react": "19.2.4",
-    "react-dom": "19.2.4"
+    "react-dom": "19.2.4",
+    "styled-components": "^6.4.2",
+    "sweetalert2": "^11.26.25"
   },
   "devDependencies": {
+    "@types/styled-components": "^5.1.36",
+    "babel-plugin-styled-components": "^2.3.0",
     "eslint": "^9",
     "eslint-config-next": "16.2.9"
   }
