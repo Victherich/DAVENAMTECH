@@ -13,7 +13,7 @@ export default function Home() {
           <HeroTag>♻️ Waste to Energy Solutions</HeroTag>
 
           <HeroTitle>
-            Transforming Organic Waste Into <span>Clean Energy</span> & Sustainable Fertilizer
+            Transforming Organic Waste Into <span>Biogas for cooking</span> & Sustainable Fertilizer
           </HeroTitle>
 
           <HeroText>

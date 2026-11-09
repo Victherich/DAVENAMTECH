@@ -29,7 +29,7 @@ export default function Header() {
       <NavLinks ref={menuRef} open={open}>
         <Link href="/" onClick={()=>setOpen(false)}>Home</Link>
         <Link href="/aboutus" onClick={()=>setOpen(false)}>About</Link>
-        <Link href="/services" onClick={()=>setOpen(false)}>Services</Link>
+        <Link href="/services" onClick={()=>setOpen(false)}>Products/Services</Link>
         <Link href="/contactus" onClick={()=>setOpen(false)}>Contact</Link>
       </NavLinks>
 

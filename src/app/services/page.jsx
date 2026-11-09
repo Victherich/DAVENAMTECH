@@ -11,7 +11,7 @@ export default function ServicesPage() {
       <HeroSection>
         <Overlay />
         <HeroContent>
-          <HeroTag>⚡ Our Services</HeroTag>
+          <HeroTag>⚡ Our Products and Services</HeroTag>
           <HeroTitle>
             Sustainable Energy Solutions for a Cleaner Future
           </HeroTitle>
@@ -26,7 +26,7 @@ export default function ServicesPage() {
       <Section>
         <SectionHeader>
           <SectionTag>WHAT WE OFFER</SectionTag>
-          <SectionTitle>Core Services</SectionTitle>
+          <SectionTitle>Core Products and Services</SectionTitle>
         </SectionHeader>
 
         <Grid>
